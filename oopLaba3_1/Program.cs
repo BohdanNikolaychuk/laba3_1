@@ -37,6 +37,7 @@ namespace oopLaba3_1
         
            string y= Low(str);
            Console.WriteLine("Отриманий рядяк\t" + y);
+           Console.WriteLine("Отриманий рядяк\t" + y);
            text1(str);
 
         }
